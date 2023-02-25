@@ -1,0 +1,35 @@
+[33mcommit d023c3c87a91c1bcd5dd4b56454a587fae51dd72[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Cristian <cristianzeravla@gmail.com>
+Date:   Fri Feb 24 19:33:52 2023 -0500
+
+    Se creo la rama secondBranch y se modifico el archivo informeHoy
+
+[33mcommit 91f3dc1598b502a9fc0399e75b6d415a1c18f3d1[m[33m ([m[1;32msecondBranch[m[33m)[m
+Author: Cristian <cristianzeravla@gmail.com>
+Date:   Fri Feb 24 19:20:42 2023 -0500
+
+    Se crearon los archivos datosUsuario y gitIgnore
+
+[33mcommit de00345dc7394e68fbfd5646dd2db36a3c650379[m
+Author: Cristian <cristianzeravla@gmail.com>
+Date:   Fri Feb 24 19:05:46 2023 -0500
+
+    se cambio el nombre del archivo claseHoy a informeHoy
+
+[33mcommit 2ce02e1df327db3f329a4a8c4f6726fe75cc19fa[m
+Author: Cristian <cristianzeravla@gmail.com>
+Date:   Fri Feb 24 18:56:31 2023 -0500
+
+    archivo informe fue eliminado
+
+[33mcommit 93ed09a59c80e03c6ef9b7a1e19c2f055841f9e5[m
+Author: Cristian <cristianzeravla@gmail.com>
+Date:   Fri Feb 24 18:42:49 2023 -0500
+
+    Archivo claseHoy modificado
+
+[33mcommit 6c024792e51600db5faa1cb5ece3f88ea3a81e0c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Cristian <cristianzeravla@gmail.com>
+Date:   Fri Feb 24 18:38:11 2023 -0500
+
+    first commit
