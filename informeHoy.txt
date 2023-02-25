@@ -1,3 +1,5 @@
 En el dia de hoy los temas tratados son:
 
 son software que ayudan a realizar un seguimiento de los cambios realizados en el código a lo largo del tiempo. 
+
+Como ignorar archivos para no ser comprometidos en el area de trabajo
